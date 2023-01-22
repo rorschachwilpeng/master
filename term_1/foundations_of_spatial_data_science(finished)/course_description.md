@@ -28,8 +28,12 @@ Lecturers: Jonathan Reades (j.reades@ucl.ac.uk)
 ### English:
 This course focuses on python programming and learning about the spatial analysis of Airbnb's data set and the corresponding sharing economy of Airbnb. Since I have learned programming before, this course is not difficult for me. The first cw conducted a theoretical analysis on the Airbnb data set, and the score was not bad, but the teacher's comment suggested that I should stand in a more macro perspective when thinking about the problem. The second cw is a group assignment where our group researched the impact of covid on Airbnb short/long term listings. The job is divided into two parts: code and report. 80% of the code part was completed by me, and the report part did not spend much thought because I still needed to catch up with the cw of the qm class and modify the code of this assignment at the same time.
 
+Course difficulty（max:5🌟）：🌟🌟
+
 ### Chinese:
 这门课主要关注python编程，以及针对Airbnb的数据集和Airbnb对应的共享经济在空间分析上的影响进行学习。因为我之前学过编程，所以这门课对我来说并不难。第一个cw针对Airbnb数据集进行理论分析，分数还行，但是老师的评语建议我在思考问题的时候可以站在一个更宏观的视角。第二个cw是小组作业，我们小组研究了covid对Airbnb短/长期房源产生的影响。作业分成了代码和report两个部分。代码部分80%是由我完成的，report部分因为同期还需要赶qm课的cw和修改这个作业的代码并没有花太多心思。
+
+课程难度（满分5🌟）：🌟🌟
 
 ## Final Course Grade:
 ### Assessment 1: 83
