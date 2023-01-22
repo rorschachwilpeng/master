@@ -1,12 +1,11 @@
 # Master
 
-Stuff of my master I want to share publicly: all code, texts of my papers, reports, research-notes & research-diary
+Stuff of my master's I want to share publicly: all code, texts of my papers, reports, research notes & research-diary
 
-The majar i'm studying is Urban Spatial Science, be held by the The Centre for Advanced Spatial Analysis(CASA), University College London(UCL). 
+The major I'm studying is Urban Spatial Science, held by the Centre for Advanced Spatial Analysis(CASA), University College London(UCL).
 
-Ma main reserch insteres is the GIS ,spatial data analysis and Agent-Based Modeling. I divide my files by semester, and I publish the corresponding courses and coursework of each semester course in this file to facilitate personal review(after final deadline submission), and this entire file is also my project resume.
-
-However, this degree project management is inspired by @thalerjonathan, who tought the Funcitonal Programming course in my bachelor degree in UNNC. I will attach his github link here, feel free to check it out. He is a awesome guy(but the funcional programming is really difficult for me...i will not translte this in the Chinese README description^^)
+My main research interest is GIS, spatial data analysis, and Agent-Based Modeling. I divide my files by semester, and I publish each semester's course's related courses and coursework in this file to facilitate personal review(after the final deadline submission). This entire file is also my project resume.
+However, this degree in project management is inspired by @thalerjonathan, who taught the Functional Programming course in my bachelor's degree at UNNC. I will attach his GitHub link here. Feel free to check it out. He is an awesome guy(but the functional programming is really challenging for me...i will not translate this in the Chinese README description^^)
 
 Here is jonathan's github link: https://github.com/thalerjonathan
 
