@@ -1,4 +1,4 @@
-# Master's foundations_of_spatial_data_science(finished) description
+# Master's geographic information systems and science(finished) description
 
 ## Course Brief Introduction:
 ### English:

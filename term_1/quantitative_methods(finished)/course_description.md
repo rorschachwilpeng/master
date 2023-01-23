@@ -1,4 +1,4 @@
-# Master's foundations_of_spatial_data_science(finished) description
+# Master's quantitative methods(finished) description
 
 ## Course Brief Introduction:
 ### English:
@@ -33,6 +33,9 @@ Course difficulty (max score 5🌟): 🌟🌟
 课程难度（满分5🌟）：🌟🌟
 
 ## Final Course Grade:
+### Assessment 1: Not Released Yet
+
+### Assessment 2: Not Released Yet
 
 
 
