@@ -44,6 +44,7 @@ This course is theoretically biased, with a basic framework for studying the the
 Assessment 1: I put a lot of effort into this essay, but the score is very low. The main reason is that the angle of analysis of the problem is wrong. In my thesis I proposed a reusable bit-rent construction model, but actually. The teacher pointed out in the comments that I did not analyze the model fit of the target city (Liverpool) using bit-rent as an entry point. I also made the same mistake in the business course I took as a senior undergraduate (the entry point is based on the detailed model and technical implementation), which reminded me that in the subsequent problem analysis, I should first understand the meaning of the question and find the reasonableness in the demand. The angle of entry, and the focus when analyzing the problem (emphasis on models/theories. Business angles/urban construction angles...etc..)
 
 Assessment 2: I didn't put in a lot of effort in this essay, because after handing in this ddl, I will have Christmas vacation, and the fsds exam made me a little tired at the time, so this cw is a bit of a stretch.... I won't make a summary.
+Update: but the result is better than first assessment....
 
 ### Chinese:
 这门课程偏向理论，基础地框架学习了城市规划以及空间分析的理论。在本课程中，我并没有觉得学到太多有用的知识，因为这些知识对我而言很抽象晦涩且不够细化。但是因为我写essay的能力相比数据分析代码实现较弱，我认为这门课有锻炼到我宏观看问题和essay的能力
@@ -54,9 +55,13 @@ Assessment 2:这篇essay并没有下很大的功夫，因为交完这个ddl就�
 
 ## Final Course Grade:
 ### Assessment 1: 60
+Teacber feedback:
+	
+This essay shows an illustration of the bid-rent model application by using several variables and apply it to the city of Liverpool with some critical arguments on the model's limitations. However, there is a lack of explanation on how the listed data was used to analyse the application of the model into the city. You need to clearly explain how you will use the data to analyse the application of the theory to Liverpool. It would be better for you to explain more about the analysis process and how might this influence the outcome of the application of the data in executing the bid-rent theory for the city of Liverpool.
 
-### Assessment 2: not released yet
+### Assessment 2: 67
+Teacher feedback: 
 
-
+This is a nice review. Clearly identifies the correct epistemological positions of the authors, describes their methodological approach and then offers a critique drawing on the ideas of Bourdieu to highlight the lack of consideration of subjective experience in social processes. I feel like this idea could have been developed further with more concrete suggstions of how these could have been woven into this or follow-up work on gentrification in London. That said, the last section in the paper does offer some reasonable concrete suggestions for improvement which are nicely grounded in the wider literature.
 
 
